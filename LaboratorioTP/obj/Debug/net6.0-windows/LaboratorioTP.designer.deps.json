@@ -1,0 +1,546 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Microsoft.Win32.SystemEvents/7.0.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "Spire.Doc/11.5.12": {
+        "dependencies": {
+          "System.Drawing.Common": "7.0.0",
+          "System.Security.Cryptography.Xml": "6.0.0",
+          "System.Security.Permissions": "7.0.0",
+          "System.Text.Encoding.CodePages": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Spire.Doc.dll": {
+            "assemblyVersion": "11.5.12.0",
+            "fileVersion": "11.5.12.3360"
+          }
+        }
+      },
+      "System.Configuration.ConfigurationManager/7.0.0": {
+        "dependencies": {
+          "System.Security.Cryptography.ProtectedData": "7.0.0",
+          "System.Security.Permissions": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Data.OleDb/7.0.0": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "7.0.0",
+          "System.Diagnostics.PerformanceCounter": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Data.OleDb.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Data.OleDb.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Diagnostics.PerformanceCounter/7.0.0": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Diagnostics.PerformanceCounter.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Diagnostics.PerformanceCounter.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Drawing.Common/7.0.0": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Formats.Asn1/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Formats.Asn1.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.Security.AccessControl/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Security.AccessControl.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Security.AccessControl.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.Security.Cryptography.Pkcs/6.0.0": {
+        "dependencies": {
+          "System.Formats.Asn1": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Security.Cryptography.Pkcs.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Security.Cryptography.Pkcs.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/7.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Security.Cryptography.Xml/6.0.0": {
+        "dependencies": {
+          "System.Security.AccessControl": "6.0.0",
+          "System.Security.Cryptography.Pkcs": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Security.Cryptography.Xml.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.Security.Permissions/7.0.0": {
+        "dependencies": {
+          "System.Windows.Extensions": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Security.Permissions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Text.Encoding.CodePages/6.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Text.Encoding.CodePages.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Text.Encoding.CodePages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.Windows.Extensions/7.0.0": {
+        "dependencies": {
+          "System.Drawing.Common": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Windows.Extensions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Windows.Extensions.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "Vintasoft.Imaging/12.1.21.1": {
+        "dependencies": {
+          "Vintasoft.Shared": "3.4.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/Vintasoft.Imaging.dll": {
+            "assemblyVersion": "12.1.21.1",
+            "fileVersion": "12.1.21.1"
+          }
+        }
+      },
+      "Vintasoft.Imaging.Annotation/12.1.21.1": {
+        "dependencies": {
+          "Vintasoft.Imaging": "12.1.21.1",
+          "Vintasoft.Shared": "3.4.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/Vintasoft.Imaging.Annotation.dll": {
+            "assemblyVersion": "12.1.21.1",
+            "fileVersion": "12.1.21.1"
+          }
+        }
+      },
+      "Vintasoft.Imaging.Annotation.Pdf/12.1.21.1": {
+        "dependencies": {
+          "Vintasoft.Imaging": "12.1.21.1",
+          "Vintasoft.Imaging.Annotation": "12.1.21.1",
+          "Vintasoft.Imaging.Pdf": "9.1.21.1",
+          "Vintasoft.Shared": "3.4.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/Vintasoft.Imaging.Annotation.Pdf.dll": {
+            "assemblyVersion": "12.1.21.1",
+            "fileVersion": "12.1.21.1"
+          }
+        }
+      },
+      "Vintasoft.Imaging.Annotation.Pdf.UI/12.1.21.1": {
+        "dependencies": {
+          "Vintasoft.Imaging": "12.1.21.1",
+          "Vintasoft.Imaging.Annotation": "12.1.21.1",
+          "Vintasoft.Imaging.Annotation.Pdf": "12.1.21.1",
+          "Vintasoft.Imaging.Gdi": "12.1.21.1",
+          "Vintasoft.Imaging.Pdf": "9.1.21.1",
+          "Vintasoft.Imaging.Pdf.UI": "9.1.21.1",
+          "Vintasoft.Shared": "3.4.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/Vintasoft.Imaging.Annotation.Pdf.UI.dll": {
+            "assemblyVersion": "12.1.21.1",
+            "fileVersion": "12.1.21.1"
+          }
+        }
+      },
+      "Vintasoft.Imaging.Gdi/12.1.21.1": {
+        "dependencies": {
+          "Vintasoft.Imaging": "12.1.21.1",
+          "Vintasoft.Shared": "3.4.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/Vintasoft.Imaging.Gdi.dll": {
+            "assemblyVersion": "12.1.21.1",
+            "fileVersion": "12.1.21.1"
+          }
+        }
+      },
+      "Vintasoft.Imaging.Pdf/9.1.21.1": {
+        "dependencies": {
+          "Vintasoft.Imaging": "12.1.21.1",
+          "Vintasoft.Shared": "3.4.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/Vintasoft.Imaging.Pdf.Resources.dll": {
+            "assemblyVersion": "9.1.21.1",
+            "fileVersion": "9.1.21.1"
+          },
+          "lib/net6.0/Vintasoft.Imaging.Pdf.dll": {
+            "assemblyVersion": "9.1.21.1",
+            "fileVersion": "9.1.21.1"
+          }
+        }
+      },
+      "Vintasoft.Imaging.Pdf.UI/9.1.21.1": {
+        "dependencies": {
+          "Vintasoft.Imaging": "12.1.21.1",
+          "Vintasoft.Imaging.Gdi": "12.1.21.1",
+          "Vintasoft.Imaging.Pdf": "9.1.21.1",
+          "Vintasoft.Imaging.UI": "12.1.21.1",
+          "Vintasoft.Shared": "3.4.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/Vintasoft.Imaging.Pdf.UI.dll": {
+            "assemblyVersion": "9.1.21.1",
+            "fileVersion": "9.1.21.1"
+          }
+        }
+      },
+      "Vintasoft.Imaging.UI/12.1.21.1": {
+        "dependencies": {
+          "Vintasoft.Imaging": "12.1.21.1",
+          "Vintasoft.Imaging.Gdi": "12.1.21.1",
+          "Vintasoft.Shared": "3.4.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/Vintasoft.Imaging.UI.dll": {
+            "assemblyVersion": "12.1.21.1",
+            "fileVersion": "12.1.21.1"
+          }
+        }
+      },
+      "Vintasoft.Shared/3.4.0.1": {
+        "runtime": {
+          "lib/net6.0/Vintasoft.Shared.dll": {
+            "assemblyVersion": "3.4.0.1",
+            "fileVersion": "3.4.0.1"
+          }
+        }
+      },
+      "WinForms.DataVisualization/1.8.0": {
+        "runtime": {
+          "lib/net6.0-windows7.0/WinForms.DataVisualization.Utilities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.8.0.0"
+          },
+          "lib/net6.0-windows7.0/WinForms.DataVisualization.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.8.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Win32.SystemEvents/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2nXPrhdAyAzir0gLl8Yy8S5Mnm/uBSQQA7jEsILOS1MTyS7DbmV1NgViMtvV1sfCD1ebITpNwb1NIinKeJgUVQ==",
+      "path": "microsoft.win32.systemevents/7.0.0",
+      "hashPath": "microsoft.win32.systemevents.7.0.0.nupkg.sha512"
+    },
+    "Spire.Doc/11.5.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jycUiCU4HOEbcYFQ6sewbcVDzDP79Os3aFA34xIjQAyEor2byTlK9mfjP2UqswrtrPWDSZ15t+cb7Ihh1dKdnQ==",
+      "path": "spire.doc/11.5.12",
+      "hashPath": "spire.doc.11.5.12.nupkg.sha512"
+    },
+    "System.Configuration.ConfigurationManager/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WvRUdlL1lB0dTRZSs5XcQOd5q9MYNk90GkbmRmiCvRHThWiojkpGqWdmEDJdXyHbxG/BhE5hmVbMfRLXW9FJVA==",
+      "path": "system.configuration.configurationmanager/7.0.0",
+      "hashPath": "system.configuration.configurationmanager.7.0.0.nupkg.sha512"
+    },
+    "System.Data.OleDb/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bhAs+5X5acgg3zQ6N4HqxqfwwmqWJzgt54BC8iwygcqa2jktxDFzxwN83GNvqgoTcTs2tenDS/jmhC+AQsmcyg==",
+      "path": "system.data.oledb/7.0.0",
+      "hashPath": "system.data.oledb.7.0.0.nupkg.sha512"
+    },
+    "System.Diagnostics.PerformanceCounter/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L+zIMEaXp1vA4wZk1KLMpk6tvU0xy94R0IfmhkmTWeC4KwShsmAfbg5I19LgjsCTYp6GVdXZ2aHluVWL0QqBdA==",
+      "path": "system.diagnostics.performancecounter/7.0.0",
+      "hashPath": "system.diagnostics.performancecounter.7.0.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KIX+oBU38pxkKPxvLcLfIkOV5Ien8ReN78wro7OF5/erwcmortzeFx+iBswlh2Vz6gVne0khocQudGwaO1Ey6A==",
+      "path": "system.drawing.common/7.0.0",
+      "hashPath": "system.drawing.common.7.0.0.nupkg.sha512"
+    },
+    "System.Formats.Asn1/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T6fD00dQ3NTbPDy31m4eQUwKW84s03z0N2C8HpOklyeaDgaJPa/TexP4/SkORMSOwc7WhKifnA6Ya33AkzmafA==",
+      "path": "system.formats.asn1/6.0.0",
+      "hashPath": "system.formats.asn1.6.0.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    },
+    "System.Security.AccessControl/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AUADIc0LIEQe7MzC+I0cl0rAT8RrTAKFHl53yHjEUzNVIaUlhFY11vc2ebiVJzVBuOzun6F7FBA+8KAbGTTedQ==",
+      "path": "system.security.accesscontrol/6.0.0",
+      "hashPath": "system.security.accesscontrol.6.0.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Pkcs/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-elM3x+xSRhzQysiqo85SbidJJ2YbZlnvmh+53TuSZHsD7dNuuEWser+9EFtY+rYupBwkq2avc6ZCO3/6qACgmg==",
+      "path": "system.security.cryptography.pkcs/6.0.0",
+      "hashPath": "system.security.cryptography.pkcs.6.0.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xSPiLNlHT6wAHtugASbKAJwV5GVqQK351crnILAucUioFqqieDN79evO1rku1ckt/GfjIn+b17UaSskoY03JuA==",
+      "path": "system.security.cryptography.protecteddata/7.0.0",
+      "hashPath": "system.security.cryptography.protecteddata.7.0.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Xml/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-puJ4UCh9JVRwOCyCIcq71JY6Axr8Sp8E2GjTIU1Fj8hm4+oX6NEoyGFGa/+pBG8SrVxbQPSj7hvtaREyTHHsmw==",
+      "path": "system.security.cryptography.xml/6.0.0",
+      "hashPath": "system.security.cryptography.xml.6.0.0.nupkg.sha512"
+    },
+    "System.Security.Permissions/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Vmp0iRmCEno9BWiskOW5pxJ3d9n+jUqKxvX4GhLwFhnQaySZmBN2FuC0N5gjFHgyFMUjC5sfIJ8KZfoJwkcMmA==",
+      "path": "system.security.permissions/7.0.0",
+      "hashPath": "system.security.permissions.7.0.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZFCILZuOvtKPauZ/j/swhvw68ZRi9ATCfvGbk1QfydmcXBkIWecWKn/250UH7rahZ5OoDBaiAudJtPvLwzw85A==",
+      "path": "system.text.encoding.codepages/6.0.0",
+      "hashPath": "system.text.encoding.codepages.6.0.0.nupkg.sha512"
+    },
+    "System.Windows.Extensions/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bR4qdCmssMMbo9Fatci49An5B1UaVJZHKNq70PRgzoLYIlitb8Tj7ns/Xt5Pz1CkERiTjcVBDU2y1AVrPBYkaw==",
+      "path": "system.windows.extensions/7.0.0",
+      "hashPath": "system.windows.extensions.7.0.0.nupkg.sha512"
+    },
+    "Vintasoft.Imaging/12.1.21.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2LNCZqgCwSLCvqsEu0PXbqVwZt8cJRF5B3UMUsGFkzkeS6wtDzeDf62tDF2ta0pQqvL3M7OsuI+7O5gyogfVwg==",
+      "path": "vintasoft.imaging/12.1.21.1",
+      "hashPath": "vintasoft.imaging.12.1.21.1.nupkg.sha512"
+    },
+    "Vintasoft.Imaging.Annotation/12.1.21.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YOgg8ma0nw2ya2vTqPvrDDURsltveWEnXdT/7L+VcF3Qg97pi0YGXf63wDM+DrWCN0yT7quXQ1YpgLPonE0WRQ==",
+      "path": "vintasoft.imaging.annotation/12.1.21.1",
+      "hashPath": "vintasoft.imaging.annotation.12.1.21.1.nupkg.sha512"
+    },
+    "Vintasoft.Imaging.Annotation.Pdf/12.1.21.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NxvGB4T8v7eIfavLcJ85UtaOOTNwwqbJ4TOhw2EVK/9T/YmGEzZkOkj6LNyOVtBBYD3XDFI5eLoaf6p6gRY0Rg==",
+      "path": "vintasoft.imaging.annotation.pdf/12.1.21.1",
+      "hashPath": "vintasoft.imaging.annotation.pdf.12.1.21.1.nupkg.sha512"
+    },
+    "Vintasoft.Imaging.Annotation.Pdf.UI/12.1.21.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0Jxqj5xO4/bpZlx54MF/tV2dBtAJQM9MUC03b6fzhTwkBm278io79QzyuLONBzkVRNwuEtvg6j7xqTh1+z4Dlg==",
+      "path": "vintasoft.imaging.annotation.pdf.ui/12.1.21.1",
+      "hashPath": "vintasoft.imaging.annotation.pdf.ui.12.1.21.1.nupkg.sha512"
+    },
+    "Vintasoft.Imaging.Gdi/12.1.21.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2DNN+KqQbFdnUnMaG5lsdincWz2btXqFd50Re3G4NSGF5ytqYXK9TfPQ3pN7e3mjeJQl6aUMV2ITvmRH+FuQyQ==",
+      "path": "vintasoft.imaging.gdi/12.1.21.1",
+      "hashPath": "vintasoft.imaging.gdi.12.1.21.1.nupkg.sha512"
+    },
+    "Vintasoft.Imaging.Pdf/9.1.21.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iFaJcDTA57zl7zJjQ3Gs+enxgI080dw8+6PnvVnycfCNgThp/aMY0HtiO4ZcXWExaic/OelIEB/0BlvgH6UtMQ==",
+      "path": "vintasoft.imaging.pdf/9.1.21.1",
+      "hashPath": "vintasoft.imaging.pdf.9.1.21.1.nupkg.sha512"
+    },
+    "Vintasoft.Imaging.Pdf.UI/9.1.21.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/VrNATsRhGiX5vdK2467vgulHgrVpKkq/D1GlFyiG1lb8TVsJQNCmcahPXiU3FbEXtrW7lnJVdtLLOnz/nhOew==",
+      "path": "vintasoft.imaging.pdf.ui/9.1.21.1",
+      "hashPath": "vintasoft.imaging.pdf.ui.9.1.21.1.nupkg.sha512"
+    },
+    "Vintasoft.Imaging.UI/12.1.21.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8iH2B+bBg6aaxZSHH5BjnPFP9H4s3lSycuhnqugxdDcbHn+KsomNEyA3JJCCDMMWEk43V99k46ntqd08r1r6IQ==",
+      "path": "vintasoft.imaging.ui/12.1.21.1",
+      "hashPath": "vintasoft.imaging.ui.12.1.21.1.nupkg.sha512"
+    },
+    "Vintasoft.Shared/3.4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UEP2UdbjHwYo58Zu60DB5ISPQK4NhnZJmYJWk8BWtPJXwR2tK42+tviW3Ax0kB8jolabG4gvrgrfD8i8XHQDxA==",
+      "path": "vintasoft.shared/3.4.0.1",
+      "hashPath": "vintasoft.shared.3.4.0.1.nupkg.sha512"
+    },
+    "WinForms.DataVisualization/1.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+L0hJaW1kq78Z4HQlIhq8Jmsuz8n9rRaJgTdwLwzYItgiL6U9zNgM+RWRBsD3pSUw1QRMy7GlpZI/+XMmnXCmA==",
+      "path": "winforms.datavisualization/1.8.0",
+      "hashPath": "winforms.datavisualization.1.8.0.nupkg.sha512"
+    }
+  }
+}

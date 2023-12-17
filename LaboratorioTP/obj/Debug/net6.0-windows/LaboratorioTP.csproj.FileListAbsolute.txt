@@ -1,0 +1,112 @@
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\LaboratorioTP.exe
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\LaboratorioTP.deps.json
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\LaboratorioTP.runtimeconfig.json
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\LaboratorioTP.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\LaboratorioTP.pdb
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.Form1.resources
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmAgregarCliente.resources
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmListarClientes.resources
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.csproj.CopyComplete
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\refint\LaboratorioTP.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.pdb
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\ref\LaboratorioTP.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmBuscarCliente.resources
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmAgregarVenta.resources
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmConsultarVenta.resources
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Spire.Doc.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.Annotation.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.Annotation.Pdf.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.Annotation.Pdf.UI.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.Gdi.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.Pdf.Resources.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.Pdf.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.Pdf.UI.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.UI.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Shared.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmGraficoVentas.resources
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmAgregarEmpleado.resources
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmBuscarEmpleado.resources
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmListarEmpleados.resources
+C:\Users\pablo\OneDrive\Escritorio\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmAcercaDe.resources
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\LaboratorioTP.exe
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\LaboratorioTP.deps.json
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\LaboratorioTP.runtimeconfig.json
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\LaboratorioTP.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\LaboratorioTP.pdb
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Spire.Doc.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.Annotation.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.Annotation.Pdf.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.Annotation.Pdf.UI.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.Gdi.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.Pdf.Resources.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.Pdf.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.Pdf.UI.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Imaging.UI.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\Vintasoft.Shared.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.Form1.resources
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmAcercaDe.resources
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmAgregarCliente.resources
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmAgregarEmpleado.resources
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmAgregarVenta.resources
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmBuscarCliente.resources
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmBuscarEmpleado.resources
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmConsultarVenta.resources
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmGraficoVentas.resources
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmListarClientes.resources
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.frmListarEmpleados.resources
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.csproj.CopyComplete
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\refint\LaboratorioTP.dll
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.pdb
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\LaboratorioTP.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Escritorio\syudyDocuments\tercer semestre\Laboratorio 2\laboratorio2\LaboratorioTP\LaboratorioTP\obj\Debug\net6.0-windows\ref\LaboratorioTP.dll
